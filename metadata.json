@@ -1,0 +1,8 @@
+{
+  "name": "What A Cleaning Services",
+  "description": "Independent website redesign concept by S.Mideros Agency for What A Cleaning Services, a family-owned, owner-operated cleaning company serving the Oklahoma City Metro Area.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
